@@ -5,3 +5,5 @@ C:\Users\David\documents\visual studio 2010\Projects\CS311_ver4\CS311_ver4\obj\x
 C:\Users\David\documents\visual studio 2010\Projects\CS311_ver4\CS311_ver4\obj\x86\Debug\CS311_ver4.csproj.GenerateResource.Cache
 C:\Users\David\documents\visual studio 2010\Projects\CS311_ver4\CS311_ver4\obj\x86\Debug\CS311_ver4.exe
 C:\Users\David\documents\visual studio 2010\Projects\CS311_ver4\CS311_ver4\obj\x86\Debug\CS311_ver4.pdb
+C:\Users\David\Documents\GitHub\DFAChecker\CS311_ver4\obj\x86\Debug\CS311_ver4.exe
+C:\Users\David\Documents\GitHub\DFAChecker\CS311_ver4\obj\x86\Debug\CS311_ver4.pdb
