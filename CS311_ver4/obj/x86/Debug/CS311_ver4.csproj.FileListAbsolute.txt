@@ -1,0 +1,7 @@
+C:\Users\David\documents\visual studio 2010\Projects\CS311_ver4\CS311_ver4\bin\Debug\CS311_ver4.exe
+C:\Users\David\documents\visual studio 2010\Projects\CS311_ver4\CS311_ver4\bin\Debug\CS311_ver4.pdb
+C:\Users\David\documents\visual studio 2010\Projects\CS311_ver4\CS311_ver4\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\David\documents\visual studio 2010\Projects\CS311_ver4\CS311_ver4\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\David\documents\visual studio 2010\Projects\CS311_ver4\CS311_ver4\obj\x86\Debug\CS311_ver4.csproj.GenerateResource.Cache
+C:\Users\David\documents\visual studio 2010\Projects\CS311_ver4\CS311_ver4\obj\x86\Debug\CS311_ver4.exe
+C:\Users\David\documents\visual studio 2010\Projects\CS311_ver4\CS311_ver4\obj\x86\Debug\CS311_ver4.pdb
